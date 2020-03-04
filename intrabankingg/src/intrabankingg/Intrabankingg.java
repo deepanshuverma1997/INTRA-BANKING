@@ -9,7 +9,7 @@ package intrabankingg;
  *
  * @author HP
  */
-public class Intrabankingg {
+public class Intrabanking {
 
     /**
      * @param args the command line arguments

@@ -41,10 +41,5 @@ public class Validations {
         }
         return false;
     }
-    public static boolean onlyCharacter(String value){
-        if(value!=null){
-            return value.matches("^([a-zA-z.'\\s]{2,50})$");
-        }
-        return false;
-    }
+    
 }
