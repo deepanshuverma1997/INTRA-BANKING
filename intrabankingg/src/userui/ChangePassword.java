@@ -43,7 +43,7 @@ public class ChangePassword extends javax.swing.JInternalFrame {
         setIconifiable(true);
         setTitle("Change User Password");
 
-        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 22)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 21)); // NOI18N
         jLabel1.setText("Enter Old Password:");
 
         jpfOld.setFont(new java.awt.Font("Tahoma", 0, 20)); // NOI18N
